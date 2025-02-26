@@ -15,4 +15,4 @@ This is a responsive landing page for a  Zylentrix ( A Consulting Company).
 
 ## How to Use
 1. Clone the repository:
-   git clone git@github.com:rohit2215/Zylentrix--Assignment.git
+   git clone https://github.com/rohit2215/Assignment---Zylentrix
